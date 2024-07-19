@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I'm a QA Automation Engineer.
 - :telescope: I develop test scripts to check the quality of software
-- :seedling: 
+- :seedling: Exploring new technologies and tools
 - :zap: Сomputer is my inspiration to learn every day
   
 ---
